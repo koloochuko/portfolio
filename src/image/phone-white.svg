@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210.005mm" height="210.004mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10532 10531"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ aria-hidden="true"
+ focusable="false"
+ data-prefix="fas"
+ data-icon="phone"
+ role="img">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="phone-solid.svg">
+   <path class="fil0" d="M10025 10149l494 -2139c53,-233 -68,-471 -286,-566l-2304 -987c-201,-87 -438,-29 -576,142l-1020 1246c-1577,-740 -2890,-2034 -3645,-3645l1247 -1020c171,-140 228,-374 142,-576l-988 -2303c-96,-221 -335,-342 -567,-288l-2139 493c-223,52 -383,249 -383,482 0,5267 4268,9543 9544,9543 230,0 430,-158 481,-382z"/>
+  </g>
+ </g>
+</svg>
