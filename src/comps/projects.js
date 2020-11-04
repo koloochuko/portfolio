@@ -137,8 +137,8 @@ function Projects(props) {
                     <ImageBox>
                         <Image src={boldstep} alt="about boldstep project" />
                         <ButtonsGroup>
-                            <Button src="/">View Code</Button>
-                            <Button src="/">Visit</Button>
+                            <Button href="https://github.com/koloochuko/boldsteps" target="_blank">View Code</Button>
+                            <Button href="http://boldsteps.rf.gd" target="_blank">Visit</Button>
                         </ButtonsGroup>
                     </ImageBox>
                 </ContentBox>
@@ -147,8 +147,8 @@ function Projects(props) {
                     <ImageBox>
                         <Image src={groomfield} alt="project 2 - Groomfield Schools" />
                         <ButtonsGroup>
-                            <Button src="/">View Code</Button>
-                            <Button src="/">Visit</Button>
+                            <Button href="https://github.com/koloochuko/groomfield" target="_blank">View Code</Button>
+                            <Button href="http://groomfieldschools.rf.gd" target="_blank">Visit</Button>
                         </ButtonsGroup>
                     </ImageBox>
                 </ContentBox>
@@ -157,8 +157,8 @@ function Projects(props) {
                     <ImageBox>
                         <Image src={soundrave} alt="project 3 - soundrave" />
                         <ButtonsGroup>
-                            <Button src="/">View Code</Button>
-                            <Button src="/">Visit</Button>
+                            <Button href="https://github.com/koloochuko/soundrave" target="_blank">View Code</Button>
+                            <Button href="http://soundrave.epizy.com" target="_blank">Visit</Button>
                         </ButtonsGroup>
                     </ImageBox>
                 </ContentBox>

@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import logo from '../image/soundrave.svg';
+import logo from '../image/logo.svg';
 
 const Wrap = styled.div`
 display: flex;
