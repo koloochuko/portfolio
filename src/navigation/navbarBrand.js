@@ -36,7 +36,7 @@ text-decoration: none;
 function Brand(props) {
     return(
         <Wrap>
-            <BrandAnchor href="/">
+            <BrandAnchor href="/portfolio">
                 <Logo src={logo} />
                 <BrandName>KOLO OCHUKO</BrandName>
             </BrandAnchor>
